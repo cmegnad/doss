@@ -1,0 +1,4 @@
+validate: chưa
+bug search by category
+bug add to cart tại product detail. ( user này add trùng cart với admin,
+thì trong cart của user mới ko có product đó )
